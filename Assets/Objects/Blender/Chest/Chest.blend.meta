@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: c5714f920a0a2614ba4fa7e2969297a0
+timeCreated: 1524678232
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box
+    100002: //RootNode
+    100004: Iron_Strips
+    100006: Joint
+    100008: Lid
+    100010: LidStrips
+    100012: Lock
+    400000: Box
+    400002: //RootNode
+    400004: Iron_Strips
+    400006: Joint
+    400008: Lid
+    400010: LidStrips
+    400012: Lock
+    2100000: None__Untitled
+    2100002: Material_002__Untitled
+    2100004: Material_001__Untitled
+    2100006: Lid__Untitled
+    2100008: Lock__Untitled
+    2100010: Joint__Untitled
+    2100012: LidStrips__Untitled
+    2100014: Box__Untitled
+    2100016: BoxStrips__Untitled
+    2300000: Box
+    2300002: Iron_Strips
+    2300004: Joint
+    2300006: Lid
+    2300008: LidStrips
+    2300010: Lock
+    3300000: Box
+    3300002: Iron_Strips
+    3300004: Joint
+    3300006: Lid
+    3300008: LidStrips
+    3300010: Lock
+    4300000: Lid
+    4300002: Lock
+    4300004: Joint
+    4300006: LidStrips
+    4300008: Box
+    4300010: Iron_Strips
+    6400000: Box
+    6400002: Iron_Strips
+    6400004: Joint
+    6400006: Lid
+    6400008: LidStrips
+    6400010: Lock
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BoxStrips__Untitled
+    second: {fileID: 2100000, guid: b75df5c56be6cc24eae1e774808bddd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box__Untitled
+    second: {fileID: 2100000, guid: c362722a5f434e74f9d5659d7e990550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Joint__Untitled
+    second: {fileID: 2100000, guid: 9c3f182bdc16edd42b249d27a197f8a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LidStrips__Untitled
+    second: {fileID: 2100000, guid: 67d77b82af333da4db67daf686ef80a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lid__Untitled
+    second: {fileID: 2100000, guid: 7426e66cab2a9ef45b80049ff41b6db8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lock__Untitled
+    second: {fileID: 2100000, guid: a37c04ed4d8551c4c9716d9abf768545, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 1
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
