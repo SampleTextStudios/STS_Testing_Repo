@@ -34,12 +34,14 @@ ModelImporter:
     2300006: Lid
     2300008: LidStrips
     2300010: Lock
+    2300012: //RootNode
     3300000: Box
     3300002: Iron_Strips
     3300004: Joint
     3300006: Lid
     3300008: LidStrips
     3300010: Lock
+    3300012: //RootNode
     4300000: Lid
     4300002: Lock
     4300004: Joint
@@ -52,6 +54,7 @@ ModelImporter:
     6400006: Lid
     6400008: LidStrips
     6400010: Lock
+    6400012: //RootNode
     7400000: Default Take
     9500000: //RootNode
   externalObjects:
