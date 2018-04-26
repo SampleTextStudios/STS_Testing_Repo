@@ -12,6 +12,7 @@ ModelImporter:
     100008: Lid
     100010: LidStrips
     100012: Lock
+    100014: Pivot
     400000: Box
     400002: //RootNode
     400004: Iron_Strips
@@ -19,6 +20,7 @@ ModelImporter:
     400008: Lid
     400010: LidStrips
     400012: Lock
+    400014: Pivot
     2100000: None__Untitled
     2100002: Material_002__Untitled
     2100004: Material_001__Untitled
@@ -28,6 +30,9 @@ ModelImporter:
     2100012: LidStrips__Untitled
     2100014: Box__Untitled
     2100016: BoxStrips__Untitled
+    2100018: Lock
+    2100020: LidStrips
+    2100022: Lid
     2300000: Box
     2300002: Iron_Strips
     2300004: Joint
